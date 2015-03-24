@@ -1,0 +1,22 @@
+{
+  "name": "koa-fetchr",
+  "version": "0.0.1",
+  "description": "Compatibility wrapper for Fetchr's middleware and Koa",
+  "main": "index.js",
+  "dependencies": {
+    "fetchr": "^0.4.8",
+    "koa": "^0.18.1",
+    "koa-bodyparser": "^1.4.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "keywords": [
+    "Koa",
+    "Fetchr"
+  ],
+  "author": "Jonathan Cremin",
+  "license": "MIT"
+}
